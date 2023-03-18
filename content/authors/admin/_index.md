@@ -31,8 +31,8 @@ interests:
   - Natural Disaster
 
 # Education to show in About widget
-education:
-# courses:
+# education:
+ courses:
     - course: PhD in Satellite Hydrology
       institution: The Ohio State University
       year: 2011
