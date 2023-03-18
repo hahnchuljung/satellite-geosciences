@@ -41,7 +41,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
        My research interests include remote sensing, water resources, natural disaster monitoring.<br /><br />
-       **The lab's doors are always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit us to learn more about possible research topics and programs.**
+       **The lab's doors are always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit me to learn more about possible research topics and programs.**
        
     design:
       columns: '2'
