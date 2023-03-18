@@ -1,6 +1,6 @@
 ---
-title: Study of spatiotemporal variability of coastal wetlands using imaging radar data
-summary: radar remote sensing, geospatial information, wetland
+title: Spatiotemporal variability of coastal wetlands using imaging radar data
+summary: radar remote sensing, geospatial information, tidal flat
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
