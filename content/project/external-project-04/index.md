@@ -1,6 +1,6 @@
 ---
-title: Application of maritime space digital twin and technology developments
-summary: geospatial information, remote sensing, marine sciences
+title: Satellite big data and geospatial data technology developments
+summary: geospatial information, remote sensing
 
 
 # Optional external URL for project (replaces project detail page).
