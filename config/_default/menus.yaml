@@ -17,7 +17,7 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/cv.pdf
     weight: 40  
   - name: Publications
     url: https://scholar.google.com/citations?user=9VVhDc8AAAAJ&hl=en 
