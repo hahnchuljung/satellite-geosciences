@@ -40,7 +40,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-       My research interests include remote sensing, water resources, natural disaster monitoring.<br />
+       My research interests include remote sensing, water resources, natural disaster monitoring.<br /><br />
        **The lab's doors are always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit us to learn more about possible research topics and programs.**
        
     design:
@@ -63,13 +63,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Other
+#          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
