@@ -1,6 +1,6 @@
 ---
 title: Earth system sciences satellite planing and utilizatoin research
-summary: remote sensing, geosciences
+summary: geosciences, remote sensing
 
 
 # Optional external URL for project (replaces project detail page).
