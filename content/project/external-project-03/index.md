@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: Advancing satellite altimeter analysis technology and utilization
+title: Advancing satellite altimeter analysis technology and utilization
+summary: altimeter remote sensing, algorithm 
 
 
 # Optional external URL for project (replaces project detail page).
