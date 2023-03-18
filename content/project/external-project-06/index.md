@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: Earth system sciences satellite planing and utilizatoin research
+title: Earth system sciences satellite planing and utilizatoin research
+summary: remote sensing, geosciences
 
 
 # Optional external URL for project (replaces project detail page).
