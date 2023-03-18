@@ -1,6 +1,6 @@
 ---
 title: Advancing satellite altimeter analysis technology and utilization
-summary: altimeter remote sensing, algorithm 
+summary: altimeter remote sensing, algorithm development
 
 
 # Optional external URL for project (replaces project detail page).
